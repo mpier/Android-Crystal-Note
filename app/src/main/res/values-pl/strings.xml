@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Crystal Note</string>
+
+    <string name="action_reset">Wyczyść</string>
+    <string name="action_set_importance">Ustaw kolor</string>
+    <string name="action_set_important">Ustaw jako ważny</string>
+    <string name="action_set_normal">Ustaw jako normalny</string>
+    <string name="action_set_not_important">Ustaw jako nieważny</string>
+    <string name="action_undo">Cofnij</string>
+    <string name="action_save">Zapisz</string>
+    <string name="action_set_as_widget">Zapisz jako widget</string>
+    <string name="action_saved">Zapisano</string>
+    <string name="action_load">Wczytaj</string>
+    <string name="action_create">Utwórz nowy</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="views_not_available">Najpierw zapisz notatkę</string>
+    <string name="tap_twice_to_exit">Naciśnij dwukrotnie, aby wyjść</string>
+    <string name="action_rate">Oceń aplikację</string>
+
+    <string name="rate">Oceń&#160;</string>
+    <string name="rate_long1">Jeśli podoba Ci się&#160;</string>
+    <string name="rate_long2">, poświęć chwilę na ocenę aplikacji. Dzięki za wsparcie!</string>
+    <string name="rate_remind">Przypomnij później</string>
+    <string name="rate_dismiss">Nie, dzięki</string>
+
+    <string name="important">Ważne</string>
+    <string name="normal">Normalne</string>
+    <string name="not_important">Mniej ważne</string>
+
+</resources>
